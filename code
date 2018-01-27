@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
+	<title>Expanding Perspectives Mock-up</title>
+	<style>
+		html {
+			height:100%;
+		}
+		body {
+			background-color:#FFFFFF;
+			margin:0;
+			height:100%;
+		}
+	</style>
+	<!-- copy these lines to your document head: -->
+
+	<meta name="viewport" content="user-scalable=yes, width=600" />
+
+	<!-- end copy -->
+  </head>
+  <body>
+	<!-- copy these lines to your document: -->
+
+	<div id="expandingperspectivesmockup_hype_container" style="margin:auto;position:relative;width:600px;height:400px;overflow:hidden;">
+		<script type="text/javascript" charset="utf-8" src="Expanding%20Perspectives%20Mock-up.hyperesources/expandingperspectivesmockup_hype_generated_script.js?72046"></script>
+	</div>
+
+	<!-- end copy -->
+	
+
+
+	<!-- text content for search engines: -->
+
+	<div style="display:none" aria-hidden=true>
+
+		<div></div>
+		<div>Your Research Question</div>
+		<div>Your Current Search
+</div>
+		<div>Other Disciplines</div>
+		<div>Outside Academia</div>
+		<div>Format/Media</div>
+		<div>Other Perspectives</div>
+		<div>Tip: 
+select one of the pieces of the pie chart to learn more about how to expand your perspective.  
+</div>
+		<div>Your Current Search</div>
+		<div>DESCRIPTION/RATIONALE
+WHY DOES IT MATTER TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE 
+</div>
+		<div>STRATEGIES/ACTION
+HOW DO YOU ADDRESS THIS TYPE TYPE TYPE TYPE TYPE TYPE TYPE 
+</div>
+		<div>
+</div>
+
+	</div>
+
+	<!-- end text content: -->
+
+  </body>
+</html>
